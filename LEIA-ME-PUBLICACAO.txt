@@ -1,0 +1,20 @@
+CATALISA41 — SITE PARAGUAI 2027
+
+Versão corrigida da landing page roxa da Catalisa41.
+Referência comercial: PDF Fronteira de Negócios (1).pdf.
+Investimentos à vista no Pix:
+- Sem aéreo: R$ 9.269,00
+- Com aéreo: R$ 11.269,27
+Período: 19 a 24 de fevereiro de 2027.
+
+PUBLICAÇÃO NA HOSTGATOR
+1. Faça backup do domínio antes de substituir arquivos.
+2. Abra a pasta do projeto dentro deste ZIP.
+3. Envie o CONTEÚDO da pasta para o DocumentRoot do domínio Catalisa (o index.html deve ficar na raiz pública).
+4. Não envie a pasta inteira como subdiretório se o site estiver na raiz do domínio.
+5. Confira preços, imagens, WhatsApp e galeria em desktop e celular.
+
+O visual CSS do HTML original foi preservado sem mudanças.
+O código-fonte do site Fronteira de Negócios NÃO está incluído.
+Não foram inventadas bagagem despachada, refeições pagas ou quantidade exata de visitas; confirme condições comerciais diretamente com a equipe.
+O conteúdo do GitHub não foi publicado automaticamente na HostGator.
